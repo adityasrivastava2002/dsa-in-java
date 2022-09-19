@@ -1,3 +1,4 @@
+import java.util.*;
 public class longest_subsequence_with_limited_sum {
     public int[] answerQueries(int[] nums, int[] queries) {
         Arrays.sort(nums);
